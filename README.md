@@ -1,24 +1,24 @@
-\# Product Profit Dashboard
+# Product Profit Dashboard
 
 
 
-\## Project Overview
+## Project Overview
 
 This project analyzes the "Superstore Dataset" to reach actionable conclusions regarding the products that produce the highest profit. This project utilizes Microsoft Excel, SQL, and Power BI to create an interactive dashboard based on the "Superstore Dataset".
 
 
 
-\## Table of Contents
+## Table of Contents
 
 
 
 
 
-\---
+---
 
 
 
-\## Business Questions
+## Business Questions
 
 
 
@@ -30,23 +30,23 @@ This project analyzes the "Superstore Dataset" to reach actionable conclusions r
 
 
 
-\---
+---
 
 
 
-\## Dataset
+## Dataset
 
 
 
-\*\*Source:\*\* Superstore Dataset
+**Source:** Superstore Dataset
 
 
 
-\*\*Time Period:\*\*
+**Time Period:**
 
 
 
-\*\*Records After Cleaning:\*\*
+**Records After Cleaning:**
 
 
 
