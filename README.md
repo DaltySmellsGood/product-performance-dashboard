@@ -49,3 +49,11 @@ The Superstore Dataset contains transactional data, including products sold, qua
 ## Methodology
 
 ### Step 1:
+
+---
+
+## Key Results
+- Copiers contributed over $55,000 in profits, but accounted for less than a percent in total volume sold.
+- Furniture contributed about a third of total revenue, but had a profit margin of ~2.5%
+- Bookcases and tables accounted for about $320,000 in revenue for furniture, but resulted in a loss of $20,000 in profits.
+- Technology generated the highest revenue and profit despite selling the fewest units.
