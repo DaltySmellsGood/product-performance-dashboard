@@ -71,4 +71,4 @@ The Superstore Dataset contains transactional data, including products sold, qua
 - Technology generated the highest revenue and profit despite selling the fewest units.
 - Average profit becomes negative once discounts reach approximately 30%
 - The central region performs the poorest as indicated by the profit margin of 7.92%
-- 
+- The west region produced the strongest overall profitability
