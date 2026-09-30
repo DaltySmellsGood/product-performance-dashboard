@@ -1,4 +1,4 @@
-# Product Performance Dashboard
+# 📊Product Performance Dashboard
 
 ## Project Overview
 
