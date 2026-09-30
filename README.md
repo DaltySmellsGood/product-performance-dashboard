@@ -13,9 +13,9 @@ This project analyzes how products perform in the "Superstore Dataset" to reach 
 - [Step 2: Exploratory Data Analysis (EDA)](#step-2-exploratory-data-analysis-eda)
 - [Step 3: Profitability Analysis](#step-3-profitability-analysis)
 - [Step 4: Power BI Dashboard](#step-4-power-bi-dashboard)
+- [Dashboard](#dashboard)
 - [Key Results](#key-results)
 - [Business Recommendations](#business-recommendations)
-- [Dashboard](#dashboard)
 - [Repository Structure](#repository-structure)
 - [What I learned](#what-i-learned)
 
@@ -138,7 +138,6 @@ These features allow users to explore trend and compare performance across diffe
 ## Dashboard
 
 
-
 ---
 
 ## Key Results
@@ -197,5 +196,18 @@ Product-Performance-Dashboard/
 
 ## What I Learned
 
+Through this project, I strengthened my ability to move from raw data to actionable business insights using a combination of Excel, Power BI, and Git.
+
+Key skills developed include:
+
+- Using **Power Query** to validate datasets by checking data types, missing values, and duplicate records.
+- Performing exploratory and profitability analysis in **Excel** using Pivot Tables, Pivot Charts, calculated fields, and conditional formulas.
+- Creating and interpreting business metrics such as **profit margin**, category performance, and discount impact.
+- Designing interactive **Power BI dashboards** with KPI cards, visualizations, and slicers to communicate findings effectively.
+- Improving dashboard development efficiency by applying lessons learned from previous Power BI projects.
+- Using **Git Bash** and GitHub to track project progress, commit changes incrementally, and maintain version control throughout the project.
+- Translating analytical findings into business insights and recommendations supported by data.
+
+This project reinforced the importance of looking beyond revenue alone and demonstrated how profitability, product mix, discounting practices, and regional performance can significantly influence business outcomes.
 
 ---
