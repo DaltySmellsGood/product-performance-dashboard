@@ -135,24 +135,50 @@ These features allow users to explore trend and compare performance across diffe
 
 ---
 
+## Dashboard
+
+
+
+---
+
 ## Key Results
-- Copiers contributed over $55,000 in profits, but accounted for less than a percent in total volume sold.
-- Furniture contributed about a third of total revenue, but had a profit margin of ~2.5%
-- Bookcases and tables accounted for about $320,000 in revenue for furniture, but resulted in a loss of $20,000 in profits.
-- Technology generated the highest revenue and profit despite selling the fewest units.
-- Average profit becomes negative once discounts reach approximately 30%
-- The central region performs the poorest as indicated by the profit margin of 7.92%
-- The west region produced the strongest overall profitability
+
+- **Copiers** were the most profitable product sub-category, contributing over **$55K in profit** despite accounting for less than **1% of total units sold**.
+- **Furniture** generated roughly **32% of total revenue** but only **6% of total profit**, resulting in a profit margin of approximately **2.5%**.
+- **Tables** and **Bookcases** were unprofitable Furniture sub-categories, producing over **$320K in combined revenue** while generating a combined loss of approximately **$21K**.
+- Average transaction profit became negative when discounts reached approximately **30% or greater**, suggesting that aggressive discounting was associated with reduced profitability.
+- **Technology** was the strongest-performing category, generating approximately **$836K in revenue** and **$145K in profit** despite selling fewer units than Office Supplies.
+- **Office Supplies** accounted for the highest sales volume (**22,906 units sold**) but generated less revenue and profit than Technology, demonstrating that sales volume alone was not the primary driver of profitability.
+- The **West** region achieved the strongest financial performance, producing the highest revenue, profit, and profit margin (**14.94%**).
+- The **Central** region was the weakest-performing region, generating a profit margin of only **7.92%**, substantially below the overall average (**12.47%**).
 
 ---
 
 ## Business Recommendations
 
+### 1. Review the Furniture Product Category
 
----
+Furniture generated approximately **32% of total revenue** but only **6% of total profit**, indicating significantly lower profitability than other categories. Further investigation into pricing, supplier costs, and product mix may help identify opportunities to improve margins.
 
-## Dashboard
+### 2. Evaluate Underperforming Furniture Sub-Categories
 
+**Tables** and **Bookcases** generated more than **$320K in combined revenue** but resulted in an estimated **$21K loss**. Management should review these product lines to determine whether pricing adjustments, cost reductions, or inventory changes are warranted.
+
+### 3. Monitor High Discount Levels
+
+Average transaction profit became negative when discounts reached approximately **30% or greater**. Implementing discount guidelines or requiring additional review for higher discount levels may help protect profitability while maintaining sales volume.
+
+### 4. Investigate High-Margin Product Segments
+
+**Copiers** generated over **$55K in profit** despite representing less than **1% of total units sold**, suggesting that certain products contribute disproportionately to overall profitability. Similar high-margin products may present opportunities for targeted marketing or sales efforts.
+
+### 5. Analyze Drivers of Technology Category Performance
+
+The **Technology** category generated the highest revenue and profit across all categories. Understanding the factors contributing to this performance—including product mix, pricing strategy, and customer demand—may provide insights that can be applied to other product categories.
+
+### 6. Examine Regional Performance Differences
+
+The **West** region achieved the highest profit margin (**14.94%**), while the **Central** region produced the lowest (**7.92%**). Additional analysis of regional sales practices, customer behavior, and product mix may help explain these differences and identify opportunities for improvement.
 
 ---
 
