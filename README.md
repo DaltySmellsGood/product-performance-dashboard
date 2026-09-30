@@ -55,7 +55,7 @@ The Superstore Dataset contains transactional data. Information includes: produc
 
 ### Step 1: Data Validation and Preparation
 
-The dataset was imported into Microsoft Excel and reviewed using Power Query to ensure data quality before analysis. The validatioin process included:
+The dataset was imported into Microsoft Excel and reviewed using Power Query to ensure data quality before analysis. The validation process included:
 
 - Verifying data types for all variables
 - Checking for missing or null values
@@ -65,9 +65,9 @@ The dataset was imported into Microsoft Excel and reviewed using Power Query to 
 
 The dataset contained 9,994 transaction records spanning multiple years of retail sales activity.
 
+<img width="1833" height="993" alt="image" src="https://github.com/user-attachments/assets/65195c6b-5309-421f-b110-f810affed8d2" />
 
-
-*This screenshot shows how the data was validated using Power Query*
+*This screenshot shows the column quality of the first few columns in Power Query*
 
 ### Step 2: Exploratory Data Analysis (EDA)
 
@@ -84,7 +84,7 @@ Key metrics examined included:
 
 This phase helped establish a foundation for subsequent business analysis.
 
-
+<img width="646" height="761" alt="image" src="https://github.com/user-attachments/assets/7111468b-b7ae-465c-8f2e-fe67e6a616c8" />
 
 *This screenshot shows the Excel sheet where the key metrics were recorded*
 
@@ -107,9 +107,10 @@ Profit Margin = Total Profit / Total Sales
 ```
 This metric was used to evaluate how effectively sales revenue translated into profit.
 
+<img width="1261" height="756" alt="image" src="https://github.com/user-attachments/assets/75d71e5f-bcb9-436f-aa82-94b299e0ff51" />
+<img width="1085" height="591" alt="image" src="https://github.com/user-attachments/assets/e7e4824f-a759-48b2-bab9-36b66d85a38e" />
 
-
-*This screenshot the Excel sheet where the Pivot Tables and Charts were created*
+*These screenshots show the pivot tables and chart created in Excel*
 
 ### Step 4: Power BI Dashboard
 
@@ -137,6 +138,7 @@ These features allow users to explore trend and compare performance across diffe
 
 ## Dashboard
 
+<img width="1447" height="812" alt="image" src="https://github.com/user-attachments/assets/abfcf1d6-0c43-424e-9753-d807f0edc1b2" />
 
 ---
 
