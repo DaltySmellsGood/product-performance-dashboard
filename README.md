@@ -9,13 +9,10 @@ This project analyzes how products perform in the "Superstore Dataset" to reach 
 - [Business Questions](#business-questions)
 - [Dataset](#dataset)
 - [Tools Used](#tools-used)
-- [Step 1: Data Validation](#step-1-data-validation)
-- [Step 2: Exploratory Data Analysis](#step-2-exploratory-data-analysis)
-- [Step 3: Category Analysis](#step-3-category-analysis)
-- [Step 4: Sub-Category Analysis](#step-4-sub-category-analysis)
-- [Step 5: Discount Analysis](#step-5-discount-analysis)
-- [Step 6: Region Analysis](#step-6-region-analysis)
-- [Step 7: Power BI Dashboard](#step-7-power-bi-dashboard)
+- [Step 1: Data Validation and Preparation](#step-1-data-validation-and-preparation)
+- [Step 2: Exploratory Data Analysis (EDA)](#step-2-exploratory-data-analysis-eda)
+- [Step 3: Profitability Analysis](#step-3-profitability-analysis)
+- [Step 4: Power BI Dashboard](#step-4-power-bi-dashboard)
 - [Key Results](#key-results)
 - [Business Recommendations](#business-recommendations)
 - [Dashboard](#dashboard)
@@ -56,30 +53,85 @@ The Superstore Dataset contains transactional data. Information includes: produc
 
 ## Methodology
 
-### Step 1: Data Validation
+### Step 1: Data Validation and Preparation
 
-- Utilized Power Query to check for missing, duplicate, and concerning values
-- No apparent concerns were found resulting in a validated data set of 9,994 values
+The dataset was imported into Microsoft Excel and reviewed using Power Query to ensure data quality before analysis. The validatioin process included:
+
+- Verifying data types for all variables
+- Checking for missing or null values
+- Reviewing the dataset for duplicate records
+- Confirming date fields imported correctly
+- Examining sales, profit, quantity, and discount variables for unusual values
+
+The dataset contained 9,994 transaction records spanning multiple years of retail sales activity.
+
 
 
 *This screenshot shows how the data was validated using Power Query*
 
 ### Step 2: Exploratory Data Analysis (EDA)
-- Examine 
 
-### Step 3: Category Analysis
+An exploratory analysis was conducted to better understand the structure of the dataset and identify potential areas for investigation.
+
+Key metrics examined included:
+
+- Date range of transactions
+- Product categories and sub-categories
+- Regional distribution
+- Sales volume
+- Profitability patterns
+- Frequency of negative-profit transactions
+
+This phase helped establish a foundation for subsequent business analysis.
 
 
-### Step 4: Sub-Category Analysis
+
+*This screenshot shows the Excel sheet where the key metrics were recorded*
+
+### Step 3: Profitability Analysis
+
+Pivot Tables and Pivot Charts were used to summarize performance across multiple business dimensions.
+
+This analysis focused on:
+
+- Revenue by product category
+- Profit by product category
+- Quantity sold by product category
+- Profitability by product sub-category
+- Regional performance comparisons
+- Discount-level performance
+
+A Profit Margin metric was calculated using:
+```text
+Profit Margin = Total Profit / Total Sales
+```
+This metric was used to evaluate how effectively sales revenue translated into profit.
 
 
-### Step 5: Discount Analysis
 
+*This screenshot the Excel sheet where the Pivot Tables and Charts were created*
 
-### Step 6: Region Analysis
+### Step 4: Power BI Dashboard
 
+Findings from the previous analysis were documented and used to guide dashboard development. Power BI was used to create an interactive dashboard that allows users to explore sales performance through filters and visualizations.
 
-### Step 7: Power BI Dashboard
+The dashboard includes:
+
+- Total Revenue
+- Total Profit
+- Quantity Sold
+- Profit Margin
+- Revenue by Category
+- Profit by Category
+- Profit by Product Sub-Category
+- Impact of Discount Rate on Profitability
+
+Interactive Slivers were added for:
+- Date Range
+- Product Category
+- Region
+
+These features allow users to explore trend and compare performance across different segments of the business.
 
 ---
 
