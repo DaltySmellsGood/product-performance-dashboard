@@ -58,9 +58,14 @@ The Superstore Dataset contains transactional data. Information includes: produc
 
 ### Step 1: Data Validation
 
+- Utilized Power Query to check for missing, duplicate, and concerning values
+- No apparent concerns were found resulting in a validated data set of 9,994 values
 
-### Step 2: Exploratory Data Analysis
 
+*This screenshot shows how the data was validated using Power Query*
+
+### Step 2: Exploratory Data Analysis (EDA)
+- Examine 
 
 ### Step 3: Category Analysis
 
